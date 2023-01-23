@@ -2,7 +2,7 @@
 
 
 
-  <h3><b>Portfolio for Mobile and Desktop Project README FILE</b></h3>
+  <h3><b>Portfolio for Mobile and Desktop Project README FILE. Live link for the website: https://dheerajsachdeva.github.io/dheeraj/</b></h3>
 
 </div>
 
@@ -76,7 +76,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://github.com/dheerajsachdeva/Portfolio-Mobile-First)
+- [Live Demo Link](https://dheerajsachdeva.github.io/dheeraj/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,7 +94,7 @@ In order to run this project you need: HTML and CSS
 
 Clone this repository to your desired folder:
 
-git clone https://github.com/dheerajsachdeva/Portfolio-Mobile-First
+git clone git@github.com:dheerajsachdeva/dheeraj.git
 
 ### Install
 
@@ -135,7 +135,7 @@ You can deploy this project using:
 
 - [ ] **[Portfolio Design for Mobile and Desktop]**
 - [ ] **[Web Responsiveness]**
-- [ ] **[.gitignore file to ignore some files and testing linters for error checking]**
+- [ ] **[Adding online to github pages]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -145,7 +145,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [https://github.com/dheerajsachdeva/Portfolio-Mobile-First/issues]
+Feel free to check the [git@github.com:dheerajsachdeva/dheeraj.git]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
